@@ -1,0 +1,33 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`pruebas en <ProductTitle/> debe de mostrar el componenete con el titulo de producto 1 1`] = `
+<div
+  className="productCard undefined"
+>
+  <span
+    className="productDescription undefined"
+  >
+    Coffee mug - Sin imagen
+  </span>
+</div>
+`;
+
+exports[`pruebas en <ProductTitle/> debe de mostrar el componenete con el titulo de producto 2 1`] = `
+<div
+  className="productCard undefined"
+>
+  <span
+    className="productDescription undefined"
+  >
+    Coffee mug - Con imagen
+  </span>
+</div>
+`;
+
+exports[`pruebas en <ProductTitle/> debe de mostrar el componenete con el titutlo personalizado 1`] = `
+<span
+  className="productDescription undefined"
+>
+  Custom Product
+</span>
+`;
