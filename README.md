@@ -5,7 +5,7 @@ Este es un paquete de pruebas de despliegue en NPM
 ### Anthony Pastor
 
 ```
-import { ProductCard } from 'ap-product-card'
+import { ProductCard } from 'ap-product-card-react'
 ```
 
 ```
