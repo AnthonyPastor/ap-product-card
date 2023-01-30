@@ -1,9 +1,22 @@
-# AP-Product-Card
+# AP-Product-Card-React
 
-Este es un paquete de pruebas de despliegue en NPM
+This package is a test of deploy on NPM
 
-### Anthony Pastor
+##### Anthony Pastor
 
+## Installation
+
+Run the command 
+```
+npm install ap-product-card-react
+```
+or
+```
+yarn add ap-product-card-react
+```
+
+
+## Usage
 ```
 import { ProductCard } from 'ap-product-card-react'
 ```
